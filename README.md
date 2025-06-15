@@ -1,14 +1,5 @@
 # SARS-CoV-2 Spike Protein Analyzer
 
-A Python tool for fetching, analyzing, and comparing Spike protein sequences from major SARS-CoV-2 variants.
-
-## Features
-
-- Fetches sequence data directly from the NCBI database.
-- Calculates and compares key physicochemical properties (e.g., molecular weight, pI, instability index).
-- Exports analysis results to a clean `.csv` file.
-- Performs multiple sequence alignment using ClustalW to identify variations.
-
 ## Tech Stack
 
 - **Language:** Python 3
